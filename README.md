@@ -5,15 +5,16 @@
 #### 👨‍💻 Estudante de Engenharia de Software | 📊 Apaixonado por Análise de Dados
 
 <p>
-  <a href="https://www.linkedin.com/in/joão-vitor-160399261/" target="_blank">
+  <a href="https://www.linkedin.com/in/joão-vitor-160399261/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:joaovotort9@gmail.com">
+  &nbsp;&nbsp;
+  <a href="mailto:joaovotort9@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+</p>
 
 ---
-
 ### 🛠️ Tecnologias e Ferramentas
 
 <p>
@@ -28,10 +29,10 @@
   <br/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" height="40" alt="Power BI" title="Power BI"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="Excel" title="Excel"/>
+  &nbsp;&nbsp;  &nbsp;&nbsp;
+  <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true" height="40" alt="Excel" title="Excel"/>
 
   <br/>
 
