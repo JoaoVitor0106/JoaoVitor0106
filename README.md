@@ -48,9 +48,8 @@
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
-
 <p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor0106&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
+  <img src="https://github-readme-stats-ten-nu-59.vercel.app/api/top-langs/?username=JoaoVitor0106&layout=compact&langs_count=7&theme=dracula&exclude_repo=github-readme-stats&cache_seconds=0&v=99"/>
 </p>
 
 </div>
