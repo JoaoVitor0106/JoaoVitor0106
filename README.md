@@ -2,7 +2,7 @@
 
 ### Olá, eu sou o João Vitor! 👋
 
-#### 👨‍💻 Estudante de Engenharia de Software | 📊 Apaixonado por Análise de Dados
+#### 👨‍💻 Estudante de Engenharia de Software | 📊 Apaixonado por Análise de Dados | Estudante de Engenharia de dados e IA
 
 <p>
   <a href="https://www.linkedin.com/in/joão-vitor-160399261/" target="_blank" style="text-decoration: none;">
